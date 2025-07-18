@@ -6,11 +6,11 @@ _This repository contains the code for a thoughtfully crafted front-end clone of
 
 ## ✨ Features
 
-- **Smooth Scroll Experience**: Enhanced with Locomotive Scroll for fluid transitions  
-- **Stunning Visuals on Scroll**: ScrollTrigger-powered animations for engaging effects  
-- **Subtle Interactions**: GSAP-driven micro-interactions throughout the site  
-- **Creative Layout**: Designed with attention to typography, spacing, and visual rhythm  
-- **Lightweight & Responsive**: Optimized for all screen sizes with great performance  
+- **Smooth Scroll Experience** — Enhanced with Locomotive Scroll for fluid transitions  
+- **Stunning Visuals on Scroll** — ScrollTrigger-powered animations for engaging effects  
+- **Subtle Interactions** — GSAP-driven micro-interactions throughout the site  
+- **Creative Layout** — Designed with attention to typography, spacing, and visual rhythm  
+- **Lightweight & Responsive** — Optimized for all screen sizes with great performance  
 
 ---
 
@@ -34,6 +34,6 @@ Take a look at the live version here:
 
 ---
 
-## 🗫 A Note
+## 📝 A Note
 
 _This is a personal front-end clone project. Feel free to explore, fork, or share your thoughts. Have a great day!_
